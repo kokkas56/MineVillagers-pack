@@ -1,5 +1,18 @@
 {
-  "releases": {},
+  "releases": {
+    "early-9": {
+      "version": 9,
+      "title": "",
+      "date": "2026-10-19T16:47:04.963Z",
+      "freeAt": "2026-12-05",
+      "month": "2026-10",
+      "opened": false,
+      "mid": "c973ce",
+      "check": "d40317b5832ea3ef",
+      "wf": "mIaWHbC2wAoFTDlbGReKTmxMU5NOZQdeioZmbvfkS2SUXX0o23lnmErIvwU10tUm-xD3DAwrOG2eW4vN",
+      "wm": "6x8DtaqZuct6QBRUFPusJqrg2Xb_25bSBjtP6wQ0mc3FrqGALJjrutpmsTKbAt6dyUXa75nNUJ7jM9b0"
+    }
+  },
   "master": {
     "id": "c973ce",
     "check": "f443b185e3e7b1a0"
