@@ -1,4 +1,8 @@
 {
-  "latest": null,
+  "latest": {
+    "version": 16,
+    "title": "",
+    "freeAt": null
+  },
   "publicClosed": false
 }
