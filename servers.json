@@ -1,0 +1,17 @@
+{
+  "servers": [
+    {
+      "id": "b19c695ece688fc9",
+      "key": "VKS1-eyJyIjoidmtzLTdlZjQzNjVmZmUzMSIsInMiOiJFUmNJSVJyckI0SDBVTlJ2WVROR3FrWW0iLCJuIjoiVmlsYWdlcnMsIEtva2siLCJwdyI6MSwiYSI6IjI2LjExLjExNi4xNTA6MjU1NjUifQ",
+      "name": "Vilagers, Kokk",
+      "desc": "Официальный Сервер",
+      "image": "",
+      "tags": [],
+      "ad": false,
+      "order": 0,
+      "owner": "Kokk",
+      "hidden": false,
+      "addedAt": 1792621576520
+    }
+  ]
+}
