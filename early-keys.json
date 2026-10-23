@@ -35,6 +35,18 @@
       "check": "1dfac6bfa392567b",
       "wf": "B6cW2eFBd6Xq3gBVzu69wGokg2-Ych0ZCE2J23ZIPjQ-Wbq0sDTFJO87dHxBDXRZLkSOtegDHyqhyw24",
       "wm": "x5_Uz6cw0PaO_cvUIiL8Jnbjie3pEOJhGvaW_mGyyoiKdPo3xlTBrkOtL9x-9qszKkQyp9qD5nkOQl_H"
+    },
+    "early-18": {
+      "version": 18,
+      "title": "Большое обновление.",
+      "date": "2026-10-23T11:56:13.356Z",
+      "freeAt": null,
+      "month": "2026-10",
+      "opened": false,
+      "mid": "1f4abb",
+      "check": "b6661e35371a5867",
+      "wf": "Ki0PhXXHGyqKHpTUg_N7ecbwjITg2FeKKJVomTOaGomTfmazt1r_Czr2aR6uChz9ts-eU11mMhEELgvw",
+      "wm": "owSnBz_BAxo2RabUJpJUsPxlB7g0y75OCg5NVdF7UavymrXapB02aSasUXEa_J8EqWs2hFR_HUzVqWVj"
     }
   },
   "master": {
