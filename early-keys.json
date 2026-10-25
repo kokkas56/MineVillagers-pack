@@ -35,6 +35,18 @@
       "check": "d7018f90033d543d",
       "wf": "LQS_DSBr9Z1AET5yv-g-ssAyj9Sfpb0eduBjhuG0ozNb8uqzu5BPBcZn_Fz0_kwrNoQ0d_25DQEHJoq4",
       "wm": "TgAJNQiVd-f42q0cbiXYjMZft2H_UFSRJIwYvKvBbbxsdnr5it-m0cP2VmPLL9UuYuW1OHcP94GJvs97"
+    },
+    "early-24": {
+      "version": 24,
+      "title": "Большое обновление Космоса",
+      "date": "2026-10-25T10:49:04.714Z",
+      "freeAt": "2026-11-08",
+      "month": "2026-10",
+      "opened": false,
+      "mid": "1f4abb",
+      "check": "416c01fe8c2db502",
+      "wf": "IFpiLL7CFlDQx7fbglaT9EzhsefODQ8SmuXK9wHJfgH62dJ4wLLkDqfWCNr1nFqMczUotLyITP3v047f",
+      "wm": "viH7GgF8KKZE8qnZi6nCrp0kJbCgPiuT9I7-LyGFeB2c2F5HT6G1QHOypgOMPQ10bZuYkyhDWER6WucJ"
     }
   },
   "master": {
