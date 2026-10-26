@@ -71,6 +71,18 @@
       "check": "d589af6d3a7304ac",
       "wf": "yr_v-_EoFlZHqLB-5gyrBfByvpJRuGA4eT2BkNdjYHNCvG5jEJsf525uDvZse2Ht0yFS6tJDBKJqDAeI",
       "wm": "AkMYYb1YhJaBQBFlLK-aZMAvQsnr20gs29VgKeufaJrOi_pOtzYL7bn05qNS691Cbc99McWfjaXYm_0J"
+    },
+    "early-34": {
+      "version": 34,
+      "title": "Большое обновление космоса (просто огромное)",
+      "date": "2026-10-26T18:30:05.566Z",
+      "freeAt": "2026-11-09",
+      "month": "2026-10",
+      "opened": false,
+      "mid": "1f4abb",
+      "check": "a704f5525136488e",
+      "wf": "FzkKc45Q18TWXSFOdFXVWj6mICSbzqOpya384PRSICUILcqeAiLNpwIr_62tlPYO6hVvxFKxzgke1caY",
+      "wm": "2RS_kwW-pZqvMy1Duea_gs84QGhoTvzOPLJ8t-UkhH6mNoFbcq3gj5hZNXC-kC1DsIDy0ELJ1HA8AYqB"
     }
   },
   "master": {
