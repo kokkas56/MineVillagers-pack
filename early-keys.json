@@ -59,6 +59,18 @@
       "check": "399012a26ff0fea5",
       "wf": "4BZK4fMwAH4Ffudsxx-nmUzKbIDRnTirqcfN85uGl7N8d2Z_lfaKXB9Tq6Rl-s2G64y32aGgmUNOK-ha",
       "wm": "mTIsuDqz6OdFAM-BnQGpipuLRe0sdE038dQcSKYPiPUP6J_ZDK4z3bKApF4Gpua0BZIp0lzosCfqqliw"
+    },
+    "early-38": {
+      "version": 38,
+      "title": "",
+      "date": "2026-11-01T18:48:04.862Z",
+      "freeAt": "2026-11-15",
+      "month": "2026-11",
+      "opened": false,
+      "mid": "080f3b",
+      "check": "e8d323f8e6bde42f",
+      "wf": "F18ZF2cb66c9Hg3VJR786IxE1iDWAZv-leF6AsK4TSG_UUW5YDJWOMwj1qI9mmlmn9HZpS8JGur_JE_e",
+      "wm": "ToM-KXKcq_8m1nBqxBp-YyfihLZ37iZWucC62sjPsYqrGulJftrdHI8Eyo8Ho2SSJWmba7ghYjSuUzQ8"
     }
   },
   "master": {
