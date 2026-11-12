@@ -35,6 +35,18 @@
       "check": "32cafda3c20eada8",
       "wf": "4OyLakn3Fcnf6fBLJgpp1qhz2eYZXo2Hf3b2_M_6OQDZ-dPGMkHWgyD96O9vJ6VbcxUtU2vai46otSn1",
       "wm": "KtlYNu6OO4NI1exOCRZwQkwL_3x69LZk82NGHB9uQYIdF2xe3ePut5U-kRk9TDGP6vFxn24EFIQAaIFb"
+    },
+    "early-44": {
+      "version": 44,
+      "title": "Багфиксы, новый физический ветер, дварфы",
+      "date": "2026-11-12T00:01:43.511Z",
+      "freeAt": "2026-11-26",
+      "month": "2026-11",
+      "opened": false,
+      "mid": "73797b",
+      "check": "aeeda44148af3447",
+      "wf": "f-r_TIxqIcq2vZqOWP6sOzMxuZe0qZZjUxImYKCUIkJccWv7VfzYYDybyzagiEOyS3oBz8KrCaHsOKIJ",
+      "wm": "ceAATw-Ybp6z3qgefoG-xB6tZzDS-A8FO-YRD3-BKEu6B0um5Z6fXRz9vu9OeBaRmoaR1VEyi8hvCQso"
     }
   },
   "master": {
